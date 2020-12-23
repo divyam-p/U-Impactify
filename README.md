@@ -145,7 +145,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/navn-r/uimpactify
+   git clone https://github.com/divyam-p/U-Impactify
    ```
 2. Install and Start the Project
    ```sh
