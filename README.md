@@ -2,7 +2,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/navn-r/uimpactify">
+  <a href="https://github.com/divyam-p/U-Impactify">
     <img src="readme_imgs/uLogo.png" alt="Logo" width="80" height="80">
   </a>
 
